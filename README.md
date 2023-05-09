@@ -1,4 +1,4 @@
-Sure! Here's an example README file for a Habit Tracker app built with Flutter:
+
 
 # Habit Tracker App
 
@@ -20,13 +20,13 @@ To get started with the app, follow these steps:
 3. Run `flutter run` to start the app
 
 ## Dependencies
-flutter_slidable: ^3.0.0
-  hive: ^2.2.3
-  hive_flutter: ^1.1.0
-  flutter_heatmap_calendar: ^1.0.5
+- flutter_slidable: ^3.0.0
+- hive: ^2.2.3
+- hive_flutter: ^1.1.0
+- flutter_heatmap_calendar: ^1.0.5
 
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  hive_generator: ^1.1.3
-  build_runner: ^2.1.11
+## dev_dependencies:
+- flutter_test:
+- sdk: flutter
+- hive_generator: ^1.1.3
+- build_runner: ^2.1.11
